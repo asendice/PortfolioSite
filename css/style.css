@@ -1,0 +1,187 @@
+body {
+    background-color: rgb(111, 111, 117);
+    font-family: 'Oswald', sans-serif;
+    width: auto;
+}
+
+.nav-setting {
+    margin-right: 15%;
+}
+
+.nav-name {
+    margin-left: 15%;
+}
+
+.nameSection {
+    margin-top: 15%;
+}
+
+
+.sbl {
+    border: solid black 2px;
+}
+
+.site-footer-index {
+    position: relative;
+    top: 30vh;
+}
+
+.site-footer-contact {
+    position: relative;
+    top: 10vh;
+}
+
+.site-footer-projects{
+    position: relative;
+    top: 8vh;
+}
+
+.nav-a {
+    font-size: 1.2rem;
+}
+
+.clr-orange {
+    color: rgb(253,147,20);
+}
+
+.clr-white {
+    color: white;
+}
+
+.btn-fa {
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+.btn-fa:hover {
+    color: rgb(253,147,20);
+   
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+.card-row {
+    margin-top: 5%;
+    width: 75%;
+    margin-left: 13%;
+}
+
+.theCard {
+    text-align: center;
+    background-color: rgb(70, 70, 70);
+    color: white;
+    transition: 0.6s;
+}
+
+.theCard:hover{
+    background-color: rgb(253,147,20);
+}
+
+.card-btn {
+    /* border: solid 1px black; */
+    background-color: white;
+}
+
+.projectHeader:hover {
+    background-color: rgb(253,147,20);
+}
+
+
+.projectHeader {
+    text-align: center;
+    margin-top: 5%;
+    border: solid rgb(253,147,20) 1px;
+    background-color: rgb(70, 70, 70);
+    transition: 0.6s;
+}
+
+
+.modal-btn-ghub:hover {
+    background: rgb(253,147,20);
+    color: rgb(70, 70, 70);
+}
+
+.modal-btn-site:hover {
+    background: rgb(253,147,20);
+    color: rgb(70, 70, 70);
+}
+
+.modal-btn-ghub {
+    background-color: rgb(70, 70, 70);
+    color: rgb(253,147,20);
+    margin-left: 60%;
+    transition: 0.6s;
+}
+
+.modal-btn-site {
+    background-color: rgb(70, 70, 70);
+    color: rgb(253,147,20);
+    margin-left: 5%;
+    padding-left: 25px;
+    padding-right: 25px;
+    transition: 0.6s;
+}
+
+.project1-skills {
+    text-align: center;
+}
+
+.js-color {
+    color: rgb(240, 219, 79);
+}
+
+.html-color {
+    color: rgb(241, 101, 41);
+}
+
+.css-color {
+    color: rgb(37, 101, 174);
+}
+
+.modal-img {
+    width: 100%;
+    height: auto;
+}
+
+.modal-footer {
+    margin-top: 15%;
+}
+
+.contactP:hover {
+    color: rgb(253,147,20);
+}
+
+.contactP {
+    text-align: center;
+    margin-top: 5%;
+    transition: 0.6s;
+}
+
+.sub-btn:hover {
+    background-color: rgb(253,147,20);
+}
+
+.sub-btn {
+    background-color: rgb(70, 70, 70);
+    color: rgb(253,147,20);
+    transition: 0.6s;
+}
+
+.next-btn:hover {
+    background-color: rgb(253,147,20);
+    color: rgb(70, 70, 70);
+}
+
+.next-btn {
+    background-color: rgb(70, 70, 70);
+    color: rgb(253,147,20);
+    transition: 0.6s;
+}
+
+.avatar-img {
+    background-color: transparent;
+    max-width: 400px;
+   
+}
